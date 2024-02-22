@@ -1,0 +1,1 @@
+// this file prevents issues with txconfig.json //
